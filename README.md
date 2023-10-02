@@ -29,4 +29,5 @@ Usage: "Hello".isalpha(), "123".isdigit()
 # 10. count(substring)
 Description: Counts the number of occurrences of a substring in the string.
 Usage: "Hello, World!".count("l")
+
 These methods are fundamental for string manipulation in Python and are widely used in various programming scenarios.
